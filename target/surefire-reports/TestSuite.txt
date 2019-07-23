@@ -1,4 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.508 s - in TestSuite
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 1.047 s <<< FAILURE! - in TestSuite
+initializeBrowser(GroupID.CheckAllLinks)  Time elapsed: 0.807 s  <<< FAILURE!
+java.io.FileNotFoundException: D:\JavaEverything\SeleniumMaster\NewCoding\End2EndProject\src\main\java\resourses\data.properties (The system cannot find the path specified)
+

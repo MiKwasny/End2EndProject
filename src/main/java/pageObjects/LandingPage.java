@@ -13,19 +13,19 @@ public class LandingPage {
     }
 
     @FindBy(how = How.CSS, using = ".pull-right > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1) > span:nth-child(2)")
-    public  WebElement loginButton;
+    private WebElement loginButton;
 
     @FindBy(how = How.ID, using = "user_email")
-    public  WebElement emailField;
+    private  WebElement emailField;
 
     @FindBy(how = How.ID, using = "user_password")
-    public  WebElement passwordField;
+    private  WebElement passwordField;
 
     @FindBy(how = How.CSS, using = ".btn")
-    public  WebElement confirmCredentials;
+    private  WebElement confirmCredentials;
 
     @FindBy(how = How.XPATH, using = "//*[@id=\"content\"]/div/div/h2")
-    public  WebElement title;
+    private  WebElement title;
 
 
     public WebElement getLoginButton(){

@@ -33,7 +33,6 @@ public class TestCaseTemplate extends browserInitialization{
     public void teardown()
     {
         driver.close();
-        log.info("~~~~~~~~Test Ended~~~~~~~~");
     }
 
     public void takeScreenShot(String result) throws IOException {
