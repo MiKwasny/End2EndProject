@@ -1,0 +1,7 @@
+21:41:14 [main] INFO  resourses.browserInitialization - Navigated to homepage
+21:41:14 [main] INFO  resourses.browserInitialization - Maintained Visibility of links
+21:41:14 [main] INFO  resourses.browserInitialization - ~~~~~~~~Test Ended~~~~~~~~
+21:44:08 [main] INFO  resourses.browserInitialization - CheckAllLinks
+21:44:08 [main] INFO  resourses.browserInitialization - Driver is initialized
+21:44:14 [main] INFO  resourses.browserInitialization - Navigated to homepage
+21:44:14 [main] INFO  resourses.browserInitialization - Maintained Visibility of links

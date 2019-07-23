@@ -1,0 +1,7 @@
+18:07:21.013 [main] INFO  resourses.browserInitialization - Navigated to homepage
+18:07:21.092 [main] INFO  resourses.browserInitialization - Title is correct
+18:09:19.635 [main] INFO  resourses.browserInitialization - Driver is initialized
+18:09:26.975 [main] INFO  resourses.browserInitialization - Navigated to homepage
+18:09:27.038 [main] INFO  resourses.browserInitialization - Title is correct
+18:11:59.307 [main] INFO  resourses.browserInitialization - Driver is initialized
+18:12:06.670 [main] INFO  resourses.browserInitialization - Navigated to homepage
